@@ -1,0 +1,22 @@
+{
+  "name": "eumtempora",
+  "version": "1.0.0",
+  "description": "Ethereum bloom filter",
+  "main": "index.js",
+  "dependencies": {
+    "sha3": "^2.0.4"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LilaHahn/eumtempora.git"
+  },
+  "author": "VitoCremin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilaHahn/eumtempora.git/issues"
+  },
+  "homepage": "https://github.com/LilaHahn/eumtempora.git"
+}
